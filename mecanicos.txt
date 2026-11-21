@@ -1,0 +1,10 @@
+Carlos Mendoza;Toyota
+Lucia Paredes;Chevrolet
+Andres Viteri;Hyundai
+Mariela Torres;Kia
+Diego Falconi;Nissan
+Sofia Salazar;Mazda
+Javier Pazmino;Volkswagen
+Paola Cevallos;Ford
+Fernando Castro;Renault
+Valeria Ortiz;Suzuki
